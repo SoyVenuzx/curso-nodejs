@@ -1,0 +1,26 @@
+[
+  {
+    "noCarnet"  :   "1210721",
+    "nombres"   :   "Ervin Antonio",
+    "apellidos" :   "Álvarez Rodríguez",
+    "sexo"      :   "Masculino",
+    "edad"      :   18,
+    "carrera"   :   "Ingeniería en Sistemas"
+  },
+  {
+    "noCarnet"  :   "1910150",
+    "nombres"   :   "Ingrid Yamilet",
+    "apellidos" :   "Valenzuela Gomez",
+    "sexo"      :   "Femenino",
+    "edad"      :   18,
+    "carrera"   :   "Psicología"
+  },
+  {
+    "noCarnet"  :   "2111042",
+    "nombres"   :   "José Manuel",
+    "apellidos" :   "Pérez Alvarado",
+    "sexo"      :   "Masculino",
+    "edad"      :   21,
+    "carrera"   :   "Marketing"
+  }
+]
