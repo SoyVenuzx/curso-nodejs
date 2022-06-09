@@ -7,6 +7,9 @@ const estudiantes = require('./stu.json');
 //! Configuration
 app.set("port", "8080");
 
+//? Middlewares
+app.use(express.json());
+
 //? Rutas
 app.get('/estudiantes', (req, res) => {
   res.json(estudiantes);
